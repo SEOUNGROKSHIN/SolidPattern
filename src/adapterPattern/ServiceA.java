@@ -1,2 +1,7 @@
-package adapterPattern;public class ServiceA {
+package adapterPattern;
+
+public class ServiceA {
+    void runServiceA() {
+        System.out.println("ServiceA");
+    }
 }
